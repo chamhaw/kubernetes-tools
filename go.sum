@@ -38,8 +38,8 @@ github.com/PuerkitoBio/purell v1.1.1/go.mod h1:c11w/QuzBsJSee3cPx9rAFu61PvFxuPbt
 github.com/PuerkitoBio/urlesc v0.0.0-20170810143723-de5bf2ad4578 h1:d+Bc7a5rLufV/sSk/8dngufqelfh6jnri85riMAaF/M=
 github.com/PuerkitoBio/urlesc v0.0.0-20170810143723-de5bf2ad4578/go.mod h1:uGdkoq3SwY9Y+13GIhn11/XLaGBb4BfwItxLd5jeuXE=
 github.com/census-instrumentation/opencensus-proto v0.2.1/go.mod h1:f6KPmirojxKA12rnyqOA5BBL4O983OfeGPqjHWSTneU=
-github.com/chamhaw/go-tools v0.0.0-20221118050947-b2642e3771fd h1:wh81+XUv9fiQFlC69ix2r/BEu71GJxD3gg5sA5BXZzU=
-github.com/chamhaw/go-tools v0.0.0-20221118050947-b2642e3771fd/go.mod h1:2ahSjcWVfuRe/KHTjXGmfGW9u7S1RYoChOebxO+ZHdY=
+github.com/chamhaw/go-tools v0.0.1 h1:uCf3N9qOOEJkKOvX0WElihccfoKrdmA0V0XG/h6quYU=
+github.com/chamhaw/go-tools v0.0.1/go.mod h1:2ahSjcWVfuRe/KHTjXGmfGW9u7S1RYoChOebxO+ZHdY=
 github.com/chzyer/logex v1.1.10/go.mod h1:+Ywpsq7O8HXn0nuIou7OrIPyXbp3wmkHB+jjWRnGsAI=
 github.com/chzyer/readline v0.0.0-20180603132655-2972be24d48e/go.mod h1:nSuG5e5PlCu98SY8svDHJxuZscDgtXS6KTTbou5AhLI=
 github.com/chzyer/test v0.0.0-20180213035817-a1ea475d72b1/go.mod h1:Q3SI9o4m/ZMnBNeIyt5eFwwo7qiLfzFZmjNmxjkiQlU=

@@ -3,7 +3,7 @@ module github.com/chamhaw/kubernetes-tools
 go 1.19
 
 require (
-	github.com/chamhaw/go-tools v0.0.0-20221118050947-b2642e3771fd
+	github.com/chamhaw/go-tools v0.0.1
 	k8s.io/api v0.25.3
 	k8s.io/apimachinery v0.25.3
 	k8s.io/client-go v0.25.3
